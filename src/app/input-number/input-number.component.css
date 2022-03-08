@@ -1,0 +1,15 @@
+.input-number{
+  display: flex;
+  border: 3px solid crimson;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+input{
+  border-radius: 5px;
+  width: 250px;
+  height: 28px;
+  background-color: #e6dfdffa;
+}

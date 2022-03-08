@@ -1,0 +1,29 @@
+.button{
+  display: flex;
+  margin-top: 20px;
+  width: 280px;
+  height: 40px;
+  background: cornflowerblue;
+  border-radius: 10px;
+  border: none;
+}
+
+.button:hover{
+  background: skyblue;
+  transition: all 0.6s;
+}
+
+.button p{
+  margin: 0 auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: white;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.button p:hover{
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.6s;
+}
